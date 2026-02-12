@@ -1,12 +1,10 @@
 ---
 name: patient-accumulation-method
-description: Gather comprehensive evidence from diverse sources before drawing conclusions.
-  Resist the urge to theorize prematurely—let patterns emerge from thorough, systematic
-  observation.
+description: Gather comprehensive evidence from diverse sources before drawing conclusions. Resist the urge to theorize prematurely—let patterns emerge from thorough, systematic observation.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - patient-accumulation-method
 - writing
