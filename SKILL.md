@@ -3,7 +3,7 @@ name: patient-accumulation-method
 description: Gather comprehensive evidence from diverse sources before drawing conclusions. Resist the urge to theorize prematurely—let patterns emerge from thorough, systematic observation.
 license: MIT
 metadata:
-  version: 1.0.4645
+  version: 1.0.4646
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
